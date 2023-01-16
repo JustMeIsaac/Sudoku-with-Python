@@ -1,3 +1,3 @@
 # Sudoku-with-Python
 
-Sistema simples de jogo de Sudoku utilizando somente Python
+Simple Sudoku game system using only Python
